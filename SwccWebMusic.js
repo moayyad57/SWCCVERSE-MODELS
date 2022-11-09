@@ -8,7 +8,7 @@
 
 (function(){ 
 
-    var soundURL ='https://github.com/moayyad57/SWCCVERSE-MODELS/raw/main/SWCC-web.wav';
+    var soundURL ='https://github.com/moayyad57/SWCCVERSE-MODELS/raw/main/SWCC_Main_Music_Theme.wav';
     var webSound;
 
     this.preload = function(entityID) { 
